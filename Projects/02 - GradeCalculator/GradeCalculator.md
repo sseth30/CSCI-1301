@@ -2,7 +2,7 @@
 
 > [!IMPORTANT]
 This document outlines several interactions with `GradeCalculator.java`, a course grade calculator program.
-> This program details specific scenarios students may face, including but not limited to: having all or some scores, achieving or not achieving the desired grade, figuring out the minimum score to get a projected grade, percentage weights not adding up, and entering invalid grades or inputs.
+> This program details specific scenarios that many simple grade calculators don't address, including but not limited to: having all or some scores, achieving or not achieving the desired grade, figuring out the minimum score to get a projected grade, percentage weights not adding up, and entering invalid grades or inputs.
 
 ## Example 1: User Has All Scores
 
