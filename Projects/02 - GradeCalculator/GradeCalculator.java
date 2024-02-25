@@ -1,5 +1,4 @@
-// Purpose: This program takes a preset grading scale and allows the user to input their calculated grades based on a mix of exams, labs, projects,
-// participation, and quizzes. The computer processes the information and lets the user know if they will be able to attain their projected grade.
+// For an overview of the program and sample inputs, be sure to check out `GradeCalculator.md`
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;
