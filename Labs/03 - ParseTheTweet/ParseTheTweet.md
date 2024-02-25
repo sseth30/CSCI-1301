@@ -16,13 +16,14 @@ Each piece of information is expected to be terminated with a semicolon (`;`).
 
 ## Example -
 - Enter a tweet below
-- `#typ offer; #det free essential supplies 4 evacs pets.; #loc
-2323 55th st, boulder; #lat 40.022; #lng -105.226;`
+- ```java
+  #typ offer; #det free essential supplies 4 evacs pets.; #loc 2323 55th st, boulder; #lat 40.022; #lng -105.226;
+
 >- Type: **OFFER**
 >- Detail: **free essential supplies 4 evacs pets.** 
 >- Location: **2323 55th st- boulder** 
 >- Latitude: **40.022** 
->- Longitude: **-105.226** 
+>- Longitude: **-105.22** 
 
 ## Conclusion
 
