@@ -15,7 +15,7 @@ Upon execution, the program prompts the user to enter a tweet that follows a spe
 Each piece of information is expected to be terminated with a semicolon (`;`).
 
 ## Example -
-- Enter a tweet below
+- **Enter a tweet below**
 - ```java
   #typ offer; #det free essential supplies 4 evacs pets.; #loc 2323 55th st, boulder; #lat 40.022; #lng -105.226;
 
