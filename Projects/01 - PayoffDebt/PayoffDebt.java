@@ -1,5 +1,4 @@
-// Purpose: Through principal, annual interest rate, and monthly payment; the program will compute
-// the number of months left to pay off a debt as well as the amount, interest, and any over-payments.
+// For an overview of the program and sample inputs, be sure to check out `PayoffDebt.md`
 
 import java.util.Scanner;
 import java.lang.Math;
