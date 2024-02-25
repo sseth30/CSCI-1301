@@ -8,7 +8,7 @@ This document explains the `NetPay.java` Java program, which calculates an emplo
 This document provides a detailed example of calculating net pay based on hours worked per week, considering various deductions like federal tax, state tax, Social Security, and Medicare.
 
 ## Example -
-- Hours per Week: `100`
+- **Hours per Week:** `100`
 >- Gross Pay: **725.0**
 >- Net Pay: **564.4125** 
 >- Deductions 
