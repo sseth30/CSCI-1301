@@ -2,7 +2,7 @@
 
 > [!IMPORTANT]
 This document outlines several interactions with `PayoffDebt.java`, a debt-payoff calculator.
-> Using user-provided inputs for the principal amount, annual interest rate, and monthly payments; the program calculates the months needed to pay off the debt, total payment amount, interest accrued, and any overpayments.
+> Using user inputs for the principal amount, annual interest rate, and monthly payments; the program calculates the months needed to pay off the debt, total payment amount, interest accrued, and any overpayments.
 
 # Debt Payoff Examples
 
