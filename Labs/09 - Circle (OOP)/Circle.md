@@ -120,9 +120,8 @@ Is circle1 smaller than circle2? true
 Is circle2 smaller than circle1? false
 
 Comparing circle1 to circle2: -1
-Comparing circle2 to circle1: 1
+Comparing circle2 to circle1: 1 
 
 Does circle1 intersect circle2? true
 Does circle2 intersect circle1? true
-
 ```
