@@ -1,4 +1,4 @@
-# RockPaperScissors.java Program 
+# `RockPaperScissors.java` Program 
 
 >[!IMPORTANT]
 The `RockPaperScissors.java` Java program allows a user to play the classic game of Rock, Paper, Scissors against the computer. The user is first prompted with the number of rounds that both the user and the computer would like to play. Both the user and computer take turns selecting moves, with the game continuing until either the user or the computer wins the specified number of points. The computer moves are dictated by the `ComputerOpponent.java` file. 
