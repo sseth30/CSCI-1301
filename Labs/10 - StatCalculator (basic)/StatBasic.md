@@ -6,7 +6,7 @@ The `Stat.java` Java program is designed to represent a statistical dataset with
 
 ## Program Description
 
-The program defines a `Stat` class with private instance variables, accessor and mutator methods, and methods to compute properties such as minimum, maximum, mode, and average. The class should be implemented according to the UML class diagram provided in the lab instructions.
+The program defines a `Stat` class with private instance variables, accessor and mutator methods, and methods to compute basic statistical properties such as minimum, maximum, mode, and average. The program also helps compare data from more than one data set.
 
 ## Key Features
 
