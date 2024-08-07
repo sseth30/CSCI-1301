@@ -95,4 +95,39 @@ The `DrawingShapes.java` Java program is designed to allow users to draw various
        ***********
         *********
 ```
+## Example 5 (invalid shape) 
 
+- Enter a shape: r t h o p
+- `R`
+```java
+Invalid shape
+Goodbye!
+```
+> [!WARNING]
+> Shape must be valid based on the choices given.
+## Example 6 (invalid length) 
+
+- Enter a shape: r t h o p
+- `r`
+- Enter a length
+- `1`
+```java
+Length must be greater than 1
+Goodbye!
+```
+> [!WARNING]
+> Length must be greater than 1.
+## Example 7 (invalid height) 
+
+- Enter a shape: r t h o p
+- `r`
+- Enter a length
+- `2`
+- Enter a height
+- `1`
+```java
+Height must be greater than 1
+Goodbye!
+```
+> [!WARNING]
+> Height must be greater than 1.
