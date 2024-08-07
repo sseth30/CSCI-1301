@@ -64,7 +64,8 @@ Create a new Pull Request.
 
 ## License and Legal
 
-### `Copyright © University of Georgia and All Respective Creators. This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License to students and the public. The content and opinions expressed in this document do not necessarily reflect the views of nor are they endorsed by the University of Georgia or the University System of Georgia.`
+### Copyright © University of Georgia and All Respective Creators. This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License](https://creativecommons.org/licenses/by-nc-nd/4.0/) to students and the public. The content and opinions expressed in this document do not necessarily reflect the views of nor are they endorsed by the University of Georgia or the University System of Georgia.
+
 
 No modifications were made to the original files other than the addition of code to the lab(s) and project(s) to ensure full compliance with their intended use. The content presented in this repository is not intended to provide, facilitate, or enable students at the University of Georgia or other educational institutions with any unfair advantage or academic dishonesty. 
 Any misuse of this material, including but not limited to academic dishonesty, is the sole responsibility of the individual. Users are expected to comply with the academic integrity policies of their respective institutions and adhere to the guidelines set forth by their professors, instructors, and/or teacher assistants.
