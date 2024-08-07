@@ -1,4 +1,5 @@
 // For an overview of the program and sample inputs, be sure to check out `InteractiveFiction.md`
+// This class should remain unchanged for full functionality
 
 public class Map {
 
