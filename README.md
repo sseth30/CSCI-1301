@@ -46,3 +46,12 @@ To compile and run the Java programs in this repository, you will need:
 
 ```bash
 git clone https://github.com/yourusername/CSCI-1301.git
+```
+
+## Usage
+
+## Contributing
+
+## License
+
+## Contact
